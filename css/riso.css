@@ -1,0 +1,61 @@
+body {
+  font-family: "Apercu", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  color: black;
+  font-size: 1.5em;
+  text-align: center;
+  }
+
+h2{
+  color: green;
+  font-size: 4em;
+  text-align: center;
+  padding-top: 3.5em;
+}
+
+p2{
+  color: black;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+a:link {
+  color:black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: grey;
+}
+.left{
+text-align:left;
+float:left;
+}
+.right{
+float:right;
+text-align:right;
+}
+.centered{
+text-align:center;
+color: pink;
+}
+
+.img1{
+max-width:20%;
+}
+
+.img2{
+max-width:10%;
+}
+
+.img3{
+max-width:40%;
+}
